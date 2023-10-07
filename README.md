@@ -71,19 +71,20 @@ Desenvolver um robô autônomo dentro das normas da competição para derrubar o
 
 ## **Material de apoio:**
 
-1. [Regras de robô de sumô SBC](http://erbase.sbc.org.br/2017/Documentos/RRC_regras_Sum%C3%B4_de_robos.pdf)
-2. [Como funciona um sensor ultrassônico?](https://tipotemporario.com.br/elektra/blog/voce-sabe-o-que-e-e-como-funciona-o-sensor-ultrassonico/)
-3. [Como funciona um sensor óptico?](https://djpautomacao.com/sensores-opticos/)
-4. [Arduino - Uno R3](https://docs.arduino.cc/hardware/uno-rev3)
-5. [Arduino - Documentação da Linguagem](https://www.arduino.cc/reference/en/?_gl=1*1tibx12*_ga*MTczMDYwMDE5My4xNjkzNzY5MzEy*_ga_NEXN8H46L5*MTY5NjY3OTI3My4xMi4xLjE2OTY2NzkzNTguMC4wLjA.)
-6. [10 maneiras de destruir um arduino](https://www.rugged-circuits.com/10-ways-to-destroy-an-arduino/)
-7. [Como utilizar millis?](https://www.seeedstudio.com/blog/2021/05/11/multitasking-with-arduino-millis-rtos-more/#:~:text=To%20do%20this%2C%20the%20millis,)
-8. [Sensor Óptico TCRT5000 com Arduino](https://blog.eletrogate.com/sensor-optico-tcrt5000-com-arduino/)
-9. [Como utilizar o sensor HC-sr04?](https://www.sta-eletronica.com.br/artigos/arduinos/sensor-ultrassonico-hc-sr04#:~:text=O%20som%20viaja%20pelo%20ar,velocidade%20do%20som%20no%20ar.)
-10. [Tutorial - Ultrassônico](https://www.filipeflop.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/)
-11. [Como funciona uma ponte H?](https://www.manualdaeletronica.com.br/ponte-h-o-que-e-como-funciona/)
-12. [Controlando Motor de Vidro Elétrico de Carro pelo Arduino usando L298N](https://www.youtube.com/watch?v=Y-QEB1PMAYU)
-13. [Controle de Velocidade de um Motor de Vidro Elétrico com Arduino e IBT2](https://www.youtube.com/watch?v=TU_weui9BoA)
+1. [Regras Sumô TJR](https://github.com/ras-ufcg/TJR-Sumo/blob/main/docs/MANUAL%20DE%20ARBITRAGEM%20SUMÔ%202020.pdf)
+2. [Regras de robô de sumô SBC](http://erbase.sbc.org.br/2017/Documentos/RRC_regras_Sum%C3%B4_de_robos.pdf)
+3. [Como funciona um sensor ultrassônico?](https://tipotemporario.com.br/elektra/blog/voce-sabe-o-que-e-e-como-funciona-o-sensor-ultrassonico/)
+4. [Como funciona um sensor óptico?](https://djpautomacao.com/sensores-opticos/)
+5. [Arduino - Uno R3](https://docs.arduino.cc/hardware/uno-rev3)
+6. [Arduino - Documentação da Linguagem](https://www.arduino.cc/reference/en/?_gl=1*1tibx12*_ga*MTczMDYwMDE5My4xNjkzNzY5MzEy*_ga_NEXN8H46L5*MTY5NjY3OTI3My4xMi4xLjE2OTY2NzkzNTguMC4wLjA.)
+7. [10 maneiras de destruir um arduino](https://www.rugged-circuits.com/10-ways-to-destroy-an-arduino/)
+8. [Como utilizar millis?](https://www.seeedstudio.com/blog/2021/05/11/multitasking-with-arduino-millis-rtos-more/#:~:text=To%20do%20this%2C%20the%20millis,)
+9. [Sensor Óptico TCRT5000 com Arduino](https://blog.eletrogate.com/sensor-optico-tcrt5000-com-arduino/)
+10. [Como utilizar o sensor HC-sr04?](https://www.sta-eletronica.com.br/artigos/arduinos/sensor-ultrassonico-hc-sr04#:~:text=O%20som%20viaja%20pelo%20ar,velocidade%20do%20som%20no%20ar.)
+11. [Tutorial - Ultrassônico](https://www.filipeflop.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/)
+12. [Como funciona uma ponte H?](https://www.manualdaeletronica.com.br/ponte-h-o-que-e-como-funciona/)
+13. [Controlando Motor de Vidro Elétrico de Carro pelo Arduino usando L298N](https://www.youtube.com/watch?v=Y-QEB1PMAYU)
+14. [Controle de Velocidade de um Motor de Vidro Elétrico com Arduino e IBT2](https://www.youtube.com/watch?v=TU_weui9BoA)
 
 ## Exemplos de Projetos Sumô
 

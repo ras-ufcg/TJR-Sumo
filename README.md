@@ -1,5 +1,3 @@
-# **3ª Etapa TrainIEEE 2023.2**
-
 ## **Robô da Categoria Sumô para TJR**
 
 ### **Objetivo:**

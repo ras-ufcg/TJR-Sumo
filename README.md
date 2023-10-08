@@ -92,7 +92,8 @@ Desenvolver um robô autônomo dentro das normas da competição para derrubar o
 ## Exemplos de Projetos Sumô
 
 1. [Exemplo - Sumo Robot - GitHub YohanAlexander](https://github.com/YohanAlexander/sumo-robot)
-2. [EQUIPE MEGABOTS: UM TIME PARA A CATEGORIA SUMÔ 3 KG AUTONÔMO](http://sistemaolimpo.org/midias/uploads/95fea8c595774a7c0b2aa5b1ab5fe348.pdf)
-3. [DESENVOLVIMENTO DE UM ROBÔ AUTÔNOMO PARA COMPETIÇÕES DE SUMÔ ROBÓTICO](https://publicacoeseventos.unijui.edu.br/index.php/cricte/article/view/8809)
-4. [MINI ROBÔ AUTÔNOMO PARA COMPETIÇÃO DE SUMÔ](http://www.inicepg.univap.br/cd/INIC_2016/anais/arquivos/0944_1101_01.pdf)
-5. [Aprimoramento de um Robô Lutador de Sumô Autônomo - TCC Kallil Miguel Caparroz Zielinski](https://repositorio.utfpr.edu.br/jspui/handle/1/14620)
+2. [CONSTRUÇÃO E ANÁLISE DE UM ROBÔ PARA COMPETIÇÃO MODALIDADESUMÔ3KG AUTÔNOMO](https://www3.ufrb.edu.br/seer/index.php/recet/article/view/2398/1354)
+3. [EQUIPE MEGABOTS: UM TIME PARA A CATEGORIA SUMÔ 3 KG AUTONÔMO](http://sistemaolimpo.org/midias/uploads/95fea8c595774a7c0b2aa5b1ab5fe348.pdf)
+4. [DESENVOLVIMENTO DE UM ROBÔ AUTÔNOMO PARA COMPETIÇÕES DE SUMÔ ROBÓTICO](https://publicacoeseventos.unijui.edu.br/index.php/cricte/article/view/8809)
+5. [MINI ROBÔ AUTÔNOMO PARA COMPETIÇÃO DE SUMÔ](http://www.inicepg.univap.br/cd/INIC_2016/anais/arquivos/0944_1101_01.pdf)
+6. [Aprimoramento de um Robô Lutador de Sumô Autônomo - TCC Kallil Miguel Caparroz Zielinski](https://repositorio.utfpr.edu.br/jspui/handle/1/14620)

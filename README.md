@@ -88,6 +88,7 @@ Desenvolver um robô autônomo dentro das normas da competição para derrubar o
 15. [Como funciona uma ponte H?](https://www.manualdaeletronica.com.br/ponte-h-o-que-e-como-funciona/)
 16. [Controlando Motor de Vidro Elétrico de Carro pelo Arduino usando L298N](https://www.youtube.com/watch?v=Y-QEB1PMAYU)
 17. [Controle de Velocidade de um Motor de Vidro Elétrico com Arduino e IBT2](https://www.youtube.com/watch?v=TU_weui9BoA)
+18. [Few examples of Mini Sumo robot competition strategies](https://www.youtube.com/watch?v=rthMiqFCiBA)
 
 ## Exemplos de Projetos Sumô
 
@@ -97,3 +98,4 @@ Desenvolver um robô autônomo dentro das normas da competição para derrubar o
 4. [DESENVOLVIMENTO DE UM ROBÔ AUTÔNOMO PARA COMPETIÇÕES DE SUMÔ ROBÓTICO](https://publicacoeseventos.unijui.edu.br/index.php/cricte/article/view/8809)
 5. [MINI ROBÔ AUTÔNOMO PARA COMPETIÇÃO DE SUMÔ](http://www.inicepg.univap.br/cd/INIC_2016/anais/arquivos/0944_1101_01.pdf)
 6. [Aprimoramento de um Robô Lutador de Sumô Autônomo - TCC Kallil Miguel Caparroz Zielinski](https://repositorio.utfpr.edu.br/jspui/handle/1/14620)
+7. [Mini Sumo, from design to competing in Robot SM 2019](https://www.youtube.com/watch?v=_aM-ktyTo84)
